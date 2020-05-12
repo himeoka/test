@@ -1,0 +1,18 @@
+{
+  "name": "test3",
+  "version": "1.0.0",
+  "description": "My cool Nuxt.js project",
+  "author": "himeoka",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "heroku-postbuild": "npm run build"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
